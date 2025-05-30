@@ -1,3 +1,5 @@
-[Two Sums](https://leetcode.com/problems/two-sum/)
-[MinStack](https://leetcode.com/problems/min-stack/)
-[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)
+- [Two Sums](https://leetcode.com/problems/two-sum/)
+- [MinStack](https://leetcode.com/problems/min-stack/)
+- [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)
+- [Stack with Increment](https://leetcode.com/problems/design-a-stack-with-increment-operation/)
+- [Circular Deque](https://leetcode.com/problems/design-circular-deque)
