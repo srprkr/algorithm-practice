@@ -4,6 +4,7 @@
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## Stacks
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [Circular Deque](https://leetcode.com/problems/design-circular-deque)
 - [MinStack](https://leetcode.com/problems/min-stack/)
 - [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/description/)

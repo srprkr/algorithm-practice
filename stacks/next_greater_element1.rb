@@ -1,23 +1,17 @@
 def next_greater_element(nums1, nums2)
-  result = []
-  
-  nums1.each do |n1|
-    # Find the index of current number in nums2
-    index = nums2.index(n1)
-    found_greater = false
-    
-    # Look for next greater element to the right
-    (index + 1).upto(nums2.length - 1) do |j|
-      if nums2[j] > n1
-        result.push(nums2[j])
-        found_greater = true
-        break
-      end
+    next_greater = {}
+    stack = []
+    # iterate the arrays, (nested because there's two)
+    nums2.each do |num|
+        while !stack.empty? && num > stack.last
+        next_greater[stack.pop] = num
+        end
+        stack.push(num)
+    end
+
+    stack.each do |num|
+        next_greater[num] = -1
     end
     
-    # If no greater element found, push -1
-    result.push(-1) unless found_greater
-  end
-  
-  result
+    nums1.map { |num| next_greater[num] || -1}
 end
