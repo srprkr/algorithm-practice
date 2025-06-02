@@ -2,6 +2,7 @@
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 
 ## Linked Lists
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
