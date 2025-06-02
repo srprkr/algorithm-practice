@@ -3,6 +3,9 @@
 - [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
+## Linked Lists
+- [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [Circular Deque](https://leetcode.com/problems/design-circular-deque)
