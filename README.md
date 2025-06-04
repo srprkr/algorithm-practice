@@ -4,6 +4,9 @@
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 
+## Heaps
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 ## Linked Lists
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
