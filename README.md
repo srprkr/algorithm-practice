@@ -3,6 +3,10 @@
 - [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
+## Caches
+- [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
 
 ## Heaps
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
