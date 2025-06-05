@@ -8,6 +8,9 @@
 ## Caches
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
 
+## Hashmaps
+- [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+
 ## Heaps
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
