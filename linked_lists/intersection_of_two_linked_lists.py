@@ -10,3 +10,4 @@ class Solution:
             b = b.next if b else headA
 
         return a
+    
