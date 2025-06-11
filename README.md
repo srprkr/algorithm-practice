@@ -16,6 +16,10 @@
 
 ## Linked Lists
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
+- [Rotate Linked List](https://leetcode.com/problems/rotate-list)
+## Sorts
+- [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
