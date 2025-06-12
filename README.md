@@ -20,6 +20,8 @@
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 ## Sorts
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
+-[Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
