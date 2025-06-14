@@ -22,6 +22,8 @@
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
 -[Sort Colors](https://leetcode.com/problems/sort-colors/)
+-[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+-[Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
