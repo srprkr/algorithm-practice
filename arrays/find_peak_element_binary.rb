@@ -2,7 +2,6 @@ def find_peak_element(nums)
     left = 0
     right = nums.size - 1
 
-    peaks = []
     target = 0
     while left < right
         mid = (left + right) / 2
