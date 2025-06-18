@@ -1,9 +1,14 @@
 ## Arrays
+- [Arrange Coins](https://leetcode.com/problems/arranging-coins)
+- [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
-- [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-- [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [Range Sum Query](https://leetcode.com/problems/range-sum-query-2d-immutable)
+- [Range Sum Query (2D)](https://leetcode.com/problems/range-sum-query-immutable)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Two Sums](https://leetcode.com/problems/two-sum/)
 
 ## Caches
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
