@@ -31,6 +31,7 @@
 -[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 -[Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
+- [Contains Duplicates II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
@@ -43,5 +44,5 @@
 
 ## Strings
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
-- [Longest Substring without Repeating Chatacters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
