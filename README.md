@@ -23,12 +23,14 @@
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
+
 ## Sorts
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
 -[Sort Colors](https://leetcode.com/problems/sort-colors/)
 -[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 -[Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+- [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
@@ -41,3 +43,5 @@
 
 ## Strings
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- [Longest Substring without Repeating Chatacters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
