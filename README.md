@@ -29,12 +29,13 @@
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
 - [Insert Interval](https://leetcode.com/problems/insert-interval)
--[Sort Colors](https://leetcode.com/problems/sort-colors/)
--[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
--[Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+- [Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
 - [Contains Duplicates II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 ## Stacks
