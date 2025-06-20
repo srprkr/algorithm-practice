@@ -35,6 +35,7 @@
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
 - [Contains Duplicates II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+- [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 ## Stacks
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)

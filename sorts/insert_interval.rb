@@ -18,5 +18,4 @@ def insert(intervals, new_interval)
     end
     result << new_interval
     result
-
-end
+  end
