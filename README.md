@@ -9,6 +9,7 @@
 - [Range Sum Query (2D)](https://leetcode.com/problems/range-sum-query-immutable)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Two Sums](https://leetcode.com/problems/two-sum/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Caches
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
@@ -27,6 +28,7 @@
 ## Sorts
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
+- [Insert Interval](https://leetcode.com/problems/insert-interval)
 -[Sort Colors](https://leetcode.com/problems/sort-colors/)
 -[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 -[Kth Largest number in array](https://leetcode.com/problems/kth-largest-element-in-an-array)
