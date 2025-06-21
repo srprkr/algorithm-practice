@@ -7,6 +7,7 @@
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Range Sum Query](https://leetcode.com/problems/range-sum-query-2d-immutable)
 - [Range Sum Query (2D)](https://leetcode.com/problems/range-sum-query-immutable)
+- [Search a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
