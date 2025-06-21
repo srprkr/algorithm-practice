@@ -9,7 +9,9 @@
 - [Range Sum Query (2D)](https://leetcode.com/problems/range-sum-query-immutable)
 - [Search a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [Two Sums](https://leetcode.com/problems/two-sum/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Caches
