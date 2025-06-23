@@ -24,9 +24,13 @@
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## Linked Lists
+
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
+
 
 ## Sorts
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
