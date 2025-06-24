@@ -1,5 +1,7 @@
 ## Arrays
+
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
+- [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
@@ -15,12 +17,15 @@
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Caches
+
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
 
 ## Hashmaps
+
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 ## Heaps
+
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## Linked Lists
@@ -33,6 +38,7 @@
 
 
 ## Sorts
+
 - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)
 - [Insert Interval](https://leetcode.com/problems/insert-interval)
@@ -46,6 +52,7 @@
 - [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 ## Stacks
+
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [Circular Deque](https://leetcode.com/problems/design-circular-deque)
 - [MinStack](https://leetcode.com/problems/min-stack/)
@@ -55,6 +62,7 @@
 - [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ## Strings
+
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
