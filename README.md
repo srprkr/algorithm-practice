@@ -16,6 +16,10 @@
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
+## Bitwise Operators
+
+- [Single Number in an Array](https://leetcode.com/problems/single-number/)
+
 ## Caches
 
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
