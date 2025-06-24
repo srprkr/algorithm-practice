@@ -29,7 +29,7 @@
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## Linked Lists
-
+- [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
