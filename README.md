@@ -43,6 +43,8 @@
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 
+## Searches
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sorts
 
