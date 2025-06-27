@@ -34,9 +34,11 @@
 
 ## Linked Lists
 - [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure)
+- [Delete Middle of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [Remove nth Node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 
