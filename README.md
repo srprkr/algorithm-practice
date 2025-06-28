@@ -3,7 +3,6 @@
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
@@ -30,7 +29,9 @@
 
 ## Heaps
 
+- [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 
 ## Linked Lists
 - [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure)
