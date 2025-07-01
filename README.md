@@ -76,3 +76,6 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+## Trees
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
