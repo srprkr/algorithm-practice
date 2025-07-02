@@ -79,3 +79,4 @@
 
 ## Trees
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
