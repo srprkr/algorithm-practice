@@ -80,3 +80,4 @@
 ## Trees
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+- [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
