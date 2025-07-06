@@ -14,6 +14,7 @@
 - [Two Sums](https://leetcode.com/problems/two-sum/)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [3Sum](https://leetcode.com/problems/3sum/)
 
 ## Bitwise Operators
 
