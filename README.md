@@ -23,6 +23,10 @@
 
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
 
+## Graphs
+
+- [Number of Islands](https://leetcode.com/problems/number-of-islands)
+
 ## Hashmaps
 
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
