@@ -26,7 +26,9 @@
 
 ## Graphs
 
+- [Course Schedule](https://leetcode.com/problems/course-schedule-ii)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
 
 ## Hashmaps
 
@@ -84,6 +86,7 @@
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ## Trees
+- [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
