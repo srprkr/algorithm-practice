@@ -3,6 +3,7 @@
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
@@ -33,6 +34,7 @@
 ## Hashmaps
 
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [Majority Element](https://leetcode.com/problems/majority-element)
 
 ## Heaps
 
