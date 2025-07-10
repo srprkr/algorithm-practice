@@ -55,6 +55,7 @@
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 
 ## Searches
+- [Find First and Last Position Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [Square Root of X](https://leetcode.com/problems/sqrtx)
