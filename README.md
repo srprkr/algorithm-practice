@@ -20,6 +20,7 @@
 ## Bitwise Operators
 
 - [Single Number in an Array](https://leetcode.com/problems/single-number/)
+- [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 
 ## Caches
 
@@ -55,6 +56,7 @@
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 
 ## Searches
+- [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 - [Find First and Last Position Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
