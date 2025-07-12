@@ -32,6 +32,7 @@
 - [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
 - [Same Tree](https://leetcode.com/problems/same-tree)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 ## Hashmaps
 
