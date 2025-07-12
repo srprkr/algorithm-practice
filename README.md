@@ -31,6 +31,7 @@
 - [Course Schedule](https://leetcode.com/problems/course-schedule-ii)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
+- [Same Tree](https://leetcode.com/problems/same-tree)
 
 ## Hashmaps
 
