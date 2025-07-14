@@ -94,6 +94,7 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Find the Index of the First Occurence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 
 ## Trees
 - [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
