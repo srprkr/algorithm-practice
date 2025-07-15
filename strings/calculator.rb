@@ -12,33 +12,66 @@
 
 # n: length of the input string
 
-def calculate num1, num2, operator
-  # Error handling for negative numbers
-  return "Sorry, you can only use non-negative numbers" if num1 < 0 || num2 < 0
+def calculate expression
+  while expression.include?('(')
+    expression = expression.gsub(/\([^()]+\)/) { |match| helper_calculate(match[1..-2]).to_s }
+  end
 
-  # Handling allowed operators
-  allowed_operators = ['+', '-']
-  raise "Invalid Operator" unless allowed_operators.include?(operator)
-
-
-  operator_map ={
-    '+' => :+,
-    '-' => :-,
-  }
-
-  # determine which operator function to run
-  num1.send(operator_map[operator], num2)
-
+  helper_calculate(expression)
 end
 
-puts calculate(1, 3, "+")
-puts calculate(1, 3, "-")
-puts calculate(-1, 3, "+")
+def helper_calculate(expression)
+  expression = expression.gsub(/--/, '+')
+
+  parts = expression.strip.split(/([+\-])/)
+
+  #  Handle single numbers (no operators)
+  return parts[0].to_i if parts.size == 1
+
+  result = parts[0].to_i
+
+  i = 1
+  while i < parts.size
+    operator = parts[i]
+    num = parts[i + 1].to_i
+
+
+    # num1, operator, num2 = parts[0].to_i, parts[1], parts[2].to_i
+    
+    # Handling allowed operators and convert to something actionable
+    operator_map = {
+      "+" => :+,
+      "-" => :-,
+    }
+
+    # Error handling for approved operators
+    method_symbol = operator_map[operator]
+    raise "Invalid Operator" unless method_symbol
+
+    # # Error handling for negative numbers
+    # return "Sorry, you can only use non-negative numbers" if num < 0
+
+    # Do maths: the line doing this method's heavy lifting
+    result = result.send(method_symbol, num)
+
+    i += 2
+  end
+  
+  result
+end
+
+
+puts calculate("5+16-((9-6)-(4-2))+1") # 21
+puts calculate("22+(2-4)") # 20
+puts calculate("6+9-12") # 3
+puts calculate("((1024))") # 1024
+puts calculate("1+(2+3)-(4-5)+6") # 13
+puts calculate("255") # 255
 
 
 # Test error handling
 begin
-  calculate(1, 3, "*")
+  calculate("(1*3)")
 rescue => e
   puts "Error: #{e.message}"
 end
