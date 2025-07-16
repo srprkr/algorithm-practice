@@ -91,10 +91,12 @@
 
 ## Strings
 
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
-- [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Implement Trie /try/ or prefix tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Find the Index of the First Occurence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+- [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 ## Trees
 - [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
