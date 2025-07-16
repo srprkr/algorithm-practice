@@ -91,6 +91,7 @@
 
 ## Strings
 
+- [Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
 - [Implement Trie /try/ or prefix tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Find the Index of the First Occurence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
