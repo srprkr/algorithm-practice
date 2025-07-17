@@ -28,7 +28,8 @@
 
 ## Graphs
 
-- [Course Schedule](https://leetcode.com/problems/course-schedule-ii)
+- [Course Schedule ii](https://leetcode.com/problems/course-schedule-ii)
+- [Course Schedule iv](https://leetcode.com/problems/course-schedule-iv)
 - [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
