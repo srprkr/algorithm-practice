@@ -106,8 +106,9 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 ## Trees
-- [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
+- [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
-- [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
