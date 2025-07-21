@@ -103,8 +103,9 @@
 - [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/) 
 - [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)\
+- [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 ## Trees
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
