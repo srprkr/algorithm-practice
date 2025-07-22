@@ -17,6 +17,9 @@
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 
+## Backtracking
+- [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
+
 ## Bitwise Operators
 
 - [Single Number in an Array](https://leetcode.com/problems/single-number/)
