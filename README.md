@@ -67,6 +67,7 @@
 - [Remove nth Node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
+- [Sort List](https://leetcode.com/problems/sort-list/)
 
 ## Searches
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
