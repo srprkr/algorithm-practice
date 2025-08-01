@@ -5,6 +5,7 @@
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [Permutations](https://leetcode.com/problems/permutations/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
