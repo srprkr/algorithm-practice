@@ -1,6 +1,7 @@
 ## Arrays
 
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
+- [Build Array from Permutations](https://leetcode.com/problems/build-array-from-permutation/)
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
