@@ -5,6 +5,7 @@
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Fruits into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Permutations](https://leetcode.com/problems/permutations/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
