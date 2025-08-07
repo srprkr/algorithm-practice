@@ -7,6 +7,7 @@
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Fruits into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected)
 - [Permutations](https://leetcode.com/problems/permutations/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
