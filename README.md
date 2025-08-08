@@ -35,11 +35,16 @@
 
 - [Least Recently Used Cache](https://leetcode.com/problems/lru-cache/)
 
+## Dynamic Programming
+
+- [Soup Servings](https://leetcode.com/problems/soup-servings)
+
 ## Graphs
 
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 - [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)
 - [Cheapest Flights within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
+- [Clone Graph](https://leetcode.com/problems/clone-graph)
 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
 
 - [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
