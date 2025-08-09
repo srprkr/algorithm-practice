@@ -25,6 +25,7 @@
 
 ## Backtracking
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
+- [Generate Binary Strings without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)
 
 ## Bitwise Operators
 
