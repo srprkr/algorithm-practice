@@ -81,6 +81,10 @@
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 
+## Math
+- [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
+- [Reordered Power of Two](https://leetcode.com/problems/reordered-power-of-2)
+
 ## Searches
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 - [Find First and Last Position Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
