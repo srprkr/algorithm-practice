@@ -84,6 +84,7 @@
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
 - [Reordered Power of Two](https://leetcode.com/problems/reordered-power-of-2)
+- [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 
 ## Searches
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
