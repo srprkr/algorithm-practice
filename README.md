@@ -3,7 +3,6 @@
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
 - [Build Array from Permutations](https://leetcode.com/problems/build-array-from-permutation/)
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Fruits into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
@@ -82,6 +81,7 @@
 - [Sort List](https://leetcode.com/problems/sort-list/)
 
 ## Math
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
 - [Reordered Power of Two](https://leetcode.com/problems/reordered-power-of-2)
 
@@ -137,6 +137,7 @@
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [Path Sum](https://leetcode.com/problems/path-sum)
 - [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
