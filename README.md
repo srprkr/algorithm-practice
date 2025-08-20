@@ -60,6 +60,7 @@
 
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [Majority Element](https://leetcode.com/problems/majority-element)
+- [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 ## Heaps
 
