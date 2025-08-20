@@ -143,6 +143,8 @@
 ## Trees
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+
+- [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Path Sum](https://leetcode.com/problems/path-sum)
 - [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
