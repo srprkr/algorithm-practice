@@ -143,10 +143,10 @@
 ## Trees
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
-
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Path Sum](https://leetcode.com/problems/path-sum)
 - [Path Sum ii](https://leetcode.com/problems/path-sum-ii)
+- [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
