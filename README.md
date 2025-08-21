@@ -67,6 +67,7 @@
 - [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+- [Relative Ranks](https://leetcode.com/problems/relative-ranks)
 0 [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
 
 ## Linked Lists
