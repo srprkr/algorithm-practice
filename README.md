@@ -143,6 +143,7 @@
 
 ## Trees
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+- [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)
 - [Find Bottom Left Tree Values](https://leetcode.com/problems/find-bottom-left-tree-value)
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
