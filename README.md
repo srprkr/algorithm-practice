@@ -7,8 +7,10 @@
 - [Fruits into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [Jump Game](https://leetcode.com/problems/jump-game/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected)
+- [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 - [Permutations](https://leetcode.com/problems/permutations/)
 - [Remove Element](https://leetcode.com/problems/remove-element)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -56,7 +58,7 @@
 - [Same Tree](https://leetcode.com/problems/same-tree)
 - [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
-## Hashmaps
+## Hashmaps (Hashes)
 
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [Majority Element](https://leetcode.com/problems/majority-element)
