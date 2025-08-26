@@ -1,24 +1,17 @@
 require 'algorithms'
 
-# @param {Integer[]} score
-# @return {String[]}
-def find_relative_ranks(score)
-    return [] if score.empty?
+# @param {Integer[]} stones
+# @return {Integer}
+def last_stone_weight(stones)
+    heap = Containers::MaxHeap.new(score)
+    stones.each {|stone| heap.push(stone)}
 
-    # Create ranks array with medals and numerical ranks
-    ranks = ["Gold Medal", "Silver Medal", "Bronze Medal"] + (4..score.size).map(&:to_s)
-
-    # Create max heap
-    max_heap = Containers::MaxHeap.new(score)
-
-    # Extract scores in descending order and assign ranks
-    rank_map = {}
-    (0...score.size).each do |i|
-        top_score = max_heap.pop
-        rank_map[top_score] = ranks[i]
+    while heap.size > 1
+        first = heap.pop
+        second = heap.pop
+        diff = first - second
+        heap.push(diff) if diff > 0
     end
-
-    # Build result in original order
-    result = score.map { |num| rank_map[num] }
-    result
+    
+    heap.empty? ? 0 : heap.pop
 end
