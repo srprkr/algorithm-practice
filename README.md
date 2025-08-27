@@ -22,6 +22,7 @@
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 - [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+- [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [Two Sums](https://leetcode.com/problems/two-sum)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)

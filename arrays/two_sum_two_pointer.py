@@ -1,17 +1,22 @@
+from typing import List
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pointer1 = 0
-        pointer2 = len(nums) - 1
-        result = []
+        # Create array of [value, original_index] pairs
+        indexed_nums = [[num, i] for i, num in enumerate(nums)]
 
-        sort_array = nums.sort()
+        # Sort by values
+        indexed_nums.sort(key=lambda x: x[0])
+
+        pointer1 = 0
+        pointer2 = len(indexed_nums) - 1
 
         while pointer1 < pointer2:
-            current_sum = sort_array[pointer1] + sort_array[pointer2]
+            current_sum = indexed_nums[pointer1][0] + indexed_nums[pointer2][0]
+
             if current_sum == target:
-                result.append(index(arr[pointer1])) 
-                result.append(index(arr[pointer2]))
-                return result
+                # Return original indices
+                return [indexed_nums[pointer1][1], indexed_nums[pointer2][1]]
             elif current_sum < target:
                 pointer1 += 1
             else:
