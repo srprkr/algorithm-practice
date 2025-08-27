@@ -68,6 +68,7 @@
 
 ## Heaps
 
+- [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
 - [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
