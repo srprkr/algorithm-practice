@@ -87,6 +87,7 @@
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+- [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Remove nth Node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-list)
 - [Rotate Linked List](https://leetcode.com/problems/rotate-list)
