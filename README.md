@@ -161,6 +161,7 @@
 - [Coonvert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)
 - [Find Bottom Left Tree Values](https://leetcode.com/problems/find-bottom-left-tree-value)
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
