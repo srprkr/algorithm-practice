@@ -97,6 +97,7 @@
 ## Math
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+- [Plus One](https://leetcode.com/problems/plus-one)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
 - [Power of Four](https://leetcode.com/problems/power-of-four)
 - [Powers of Three](https://leetcode.com/problems/power-of-three)
