@@ -169,6 +169,7 @@
 - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)
 - [Find Bottom Left Tree Values](https://leetcode.com/problems/find-bottom-left-tree-value)
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
