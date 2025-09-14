@@ -157,6 +157,7 @@
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [Remove K Digits](https://leetcode.com/problems/remove-k-digits)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
