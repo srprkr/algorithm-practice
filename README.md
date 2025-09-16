@@ -45,6 +45,7 @@
 
 ## Dynamic Programming
 
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Soup Servings](https://leetcode.com/problems/soup-servings)
 
 ## Graphs
