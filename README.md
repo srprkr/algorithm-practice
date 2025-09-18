@@ -25,10 +25,8 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
-- [Two Sums](https://leetcode.com/problems/two-sum)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
-- [3Sum](https://leetcode.com/problems/3sum)
 
 ## Backtracking
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
@@ -101,6 +99,7 @@
 ## Math
 
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+- [Happy Number](https://leetcode.com/problems/happy-number)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [Largest Number](https://leetcode.com/problems/largest-number)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
@@ -193,4 +192,6 @@
 
 ## Two Pointers
 
+- [3Sum](https://leetcode.com/problems/3sum)
 - [4 Sum](https://leetcode.com/problems/4sum)
+- [Two Sum](https://leetcode.com/problems/two-sum)
