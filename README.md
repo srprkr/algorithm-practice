@@ -37,6 +37,7 @@
 
 - [Single Number in an Array](https://leetcode.com/problems/single-number)
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
+- [Add Binary](https://leetcode.com/problems/add-binary)
 
 ## Caches
 
