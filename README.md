@@ -12,7 +12,10 @@
 - [Jump Game](https://leetcode.com/problems/jump-game)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
 - [Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+- [Minimum Index Sum of Two List](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
 - [Permutations](https://leetcode.com/problems/permutations)
 - [Remove All Repeat Numbers from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
@@ -26,8 +29,6 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
-- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
 
 ## Backtracking
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
