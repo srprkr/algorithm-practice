@@ -105,6 +105,7 @@
 
 - [Check Divisibility by Digit Sum and Product ](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+- [FizzBuzz](https://leetcode.com/problems/fizz-buzz)
 - [Happy Number](https://leetcode.com/problems/happy-number)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [Largest Number](https://leetcode.com/problems/largest-number)
