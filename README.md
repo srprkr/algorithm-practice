@@ -122,6 +122,7 @@
 
 ## Searches
 
+- [Binary Search](https://leetcode.com/problems/binary-search)
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 - [Find First and Last Position Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version)
