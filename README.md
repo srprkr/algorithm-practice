@@ -208,6 +208,7 @@
 
 - [3Sum](https://leetcode.com/problems/3sum)
 - [4 Sum](https://leetcode.com/problems/4sum)
+- [Find All Anagrams](https://algo.monster/problems/find_all_anagrams)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes)
 - [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)
