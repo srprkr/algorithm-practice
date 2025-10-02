@@ -178,6 +178,7 @@
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 ## Trees
