@@ -211,6 +211,7 @@
 - [4 Sum](https://leetcode.com/problems/4sum)
 - [Find All Anagrams](https://algo.monster/problems/find_all_anagrams)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes)
 - [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays)
 - [Two Sum Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
