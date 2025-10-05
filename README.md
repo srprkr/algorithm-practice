@@ -27,6 +27,7 @@
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 - [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+- [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
 
