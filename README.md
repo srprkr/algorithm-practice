@@ -174,6 +174,7 @@
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
+- [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
 - [Remove K Digits](https://leetcode.com/problems/remove-k-digits)
 - [Reverse String](https://leetcode.com/problems/reverse-string)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
