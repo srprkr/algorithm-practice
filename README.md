@@ -31,6 +31,7 @@
 - [Sort an Array](https://leetcode.com/problems/sort-an-array)
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges)
 - [Third Max](https://leetcode.com/problems/third-maximum-number)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 
 ## Backtracking
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
