@@ -112,6 +112,7 @@
 - [Happy Number](https://leetcode.com/problems/happy-number)
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [Largest Number](https://leetcode.com/problems/largest-number)
+- [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area)
 - [Missing Number](https://leetcode.com/problems/missing-number)
 - [Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
