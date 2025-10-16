@@ -123,6 +123,7 @@
 - [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers)
 - [Reordered Power of Two](https://leetcode.com/problems/reordered-power-of-2)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 - [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 
 ## Searches
