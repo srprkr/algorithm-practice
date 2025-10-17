@@ -133,6 +133,7 @@
 - [Find First and Last Position Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version)
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
 - [Square Root of X](https://leetcode.com/problems/sqrtx)
