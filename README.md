@@ -206,6 +206,7 @@
 - [Inorder Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [Insert Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [Lowest Common Ancestor in a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
