@@ -228,6 +228,7 @@
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 - [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+- [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i)
 - [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up)
 - [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes)
