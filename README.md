@@ -2,6 +2,7 @@
 
 - [Arrange Coins](https://leetcode.com/problems/arranging-coins)
 - [Build Array from Permutations](https://leetcode.com/problems/build-array-from-permutation)
+- [Check if all 1s are at least length k places away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)
 - [Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 - [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array)
