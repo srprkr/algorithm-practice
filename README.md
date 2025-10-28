@@ -170,6 +170,7 @@
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
 - [Implement Trie /try/ or prefix tree](https://leetcode.com/problems/implement-trie-prefix-tree)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
+- [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
