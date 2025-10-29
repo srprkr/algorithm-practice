@@ -229,6 +229,7 @@
 - [Find All Anagrams](https://algo.monster/problems/find_all_anagrams)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 - [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)
+- [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i)
 - [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up)
