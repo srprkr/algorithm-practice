@@ -198,6 +198,7 @@
 
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
