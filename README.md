@@ -8,6 +8,7 @@
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array)
 - [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - [Fruits into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)
+- [Height Checker](https://leetcode.com/problems/height-checker)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 - [Jump Game](https://leetcode.com/problems/jump-game)
