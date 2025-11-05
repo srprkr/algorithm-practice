@@ -192,6 +192,7 @@
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
+- [To Lower Case](https://leetcode.com/problems/to-lower-case)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
