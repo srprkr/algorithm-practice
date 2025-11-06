@@ -72,6 +72,7 @@
 ## Hashmaps (Hashes)
 
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 - [K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Ransom Note](https://leetcode.com/problems/ransom-note)
