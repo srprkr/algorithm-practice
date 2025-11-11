@@ -168,6 +168,7 @@
 ## Strings
 
 - [Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
+- [Add Digits](https://leetcode.com/problems/add-digits)
 - [Find the Index of the First Occurence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
 - [Implement Trie /try/ or prefix tree](https://leetcode.com/problems/implement-trie-prefix-tree)
