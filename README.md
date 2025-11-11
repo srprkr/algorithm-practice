@@ -200,6 +200,7 @@
 ## Trees
 
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
