@@ -117,6 +117,7 @@
 - [Largest Number](https://leetcode.com/problems/largest-number)
 - [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area)
 - [Missing Number](https://leetcode.com/problems/missing-number)
+- [Nim Game](https://leetcode.com/problems/nim-game)
 - [Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
 - [Plus One](https://leetcode.com/problems/plus-one)
