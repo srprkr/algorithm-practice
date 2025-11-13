@@ -41,6 +41,7 @@
 
 ## Bitwise Operators
 
+- [Find The Difference](https://leetcode.com/problems/find-the-difference)
 - [Single Number in an Array](https://leetcode.com/problems/single-number)
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 - [Add Binary](https://leetcode.com/problems/add-binary)
@@ -71,6 +72,7 @@
 
 ## Hashmaps (Hashes)
 
+- [Find the Difference](https://leetcode.com/problems/find-the-difference)
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 - [K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
