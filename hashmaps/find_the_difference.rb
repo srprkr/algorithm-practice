@@ -1,3 +1,6 @@
+# @param {String} s
+# @param {String} t
+# @return {Character}
 def find_the_difference(s, t)
     count = Hash.new(0)
     (s + t).each_char do |chr|
