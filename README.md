@@ -233,6 +233,7 @@
 
 ## Two Pointers
 
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum](https://leetcode.com/problems/3sum)
 - [4 Sum](https://leetcode.com/problems/4sum)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies)
