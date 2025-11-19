@@ -13,6 +13,7 @@
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii)
 - [Jump Game](https://leetcode.com/problems/jump-game)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+- [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 - [Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
