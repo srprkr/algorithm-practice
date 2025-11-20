@@ -183,6 +183,7 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)
 - [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring)
+- [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 - [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
