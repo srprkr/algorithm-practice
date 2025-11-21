@@ -122,6 +122,7 @@
 - [Missing Number](https://leetcode.com/problems/missing-number)
 - [Nim Game](https://leetcode.com/problems/nim-game)
 - [Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets)
+- [Perfect Number](https://leetcode.com/problems/perfect-number)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
 - [Plus One](https://leetcode.com/problems/plus-one)
 - [Power of Four](https://leetcode.com/problems/power-of-four)
