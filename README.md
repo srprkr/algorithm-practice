@@ -180,6 +180,7 @@
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+- [Keyboard Row](https://leetcode.com/problems/keyboard-row)
 - [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)
