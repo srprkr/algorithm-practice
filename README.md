@@ -85,6 +85,7 @@
 
 - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
 - [Find K Pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
