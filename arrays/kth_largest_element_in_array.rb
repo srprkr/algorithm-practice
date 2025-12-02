@@ -12,5 +12,5 @@ def find_kth_largest(nums, k)
         max_heap.pop
     end
 
-  max_heap.pop
+    max_heap.pop 
 end
