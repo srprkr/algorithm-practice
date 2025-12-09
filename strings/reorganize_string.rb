@@ -1,27 +1,29 @@
 # @param {String} s
 # @return {String}
 def reorganize_string(s)
-    hash = {}
-    
-    s.each_char do |ch|
-        hash[ch] = (hash[ch] || 0) + 1
-        return "" if hash[ch] > (s.size + 1) / 2
-    end
+    n = s.size
 
-    sorted = hash.sort_by { |k, v| -v}
-    
-    res = Array.new(s.size, "")
-    i = 0
+    char_count = Hash.new(0)
+    s.each_char { |c| char_count[c] += 1}
 
-    sorted.each do |ch, count|
+    heap = char_count.to_a.sort_by { |char, count| -count }
+
+    return "" if heap[0][1] > (n + 1) / 2
+
+    res = Array.new(n)
+
+    pointer = 0
+
+    while !heap.empty?
+        char, count = heap.shift
         count.times do
-          return "" if i >= s.size
-          res[i] = ch
-          i += 2
+            res[pointer] = char
+            pointer += 2
+            if pointer >= n
+                pointer = 1
+            end
         end
-        i = 1 if i >= s.size
     end
     
-
-    res.join
+    res.join("")
 end
