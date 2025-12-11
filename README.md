@@ -254,6 +254,7 @@
 - [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
+- [Find Smallest Index Greater than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 - [Maximum Average Subarray](https://leetcode.com/problems/maximum-average-subarray-i)
 - [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up)
 - [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray)
