@@ -74,6 +74,7 @@
 ## Hashmaps (Hashes)
 
 - [Find the Difference](https://leetcode.com/problems/find-the-difference)
+- [Find Words that Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 - [K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)
