@@ -115,6 +115,7 @@
 ## Math
 
 - [Check Divisibility by Digit Sum and Product ](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product)
+- [Distribute Candies](https://leetcode.com/problems/distribute-candies)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 - [FizzBuzz](https://leetcode.com/problems/fizz-buzz)
 - [Happy Number](https://leetcode.com/problems/happy-number)
