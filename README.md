@@ -135,6 +135,7 @@
 - [Reordered Power of Two](https://leetcode.com/problems/reordered-power-of-2)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 - [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)
+- [Valid Boomerang](https://leetcode.com/problems/valid-boomerang)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 - [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 
