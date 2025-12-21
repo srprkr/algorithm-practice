@@ -42,6 +42,7 @@
 
 ## Bitwise Operators
 
+- [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Find The Difference](https://leetcode.com/problems/find-the-difference)
 - [Single Number in an Array](https://leetcode.com/problems/single-number)
 - [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array)
