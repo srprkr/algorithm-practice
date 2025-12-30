@@ -74,6 +74,7 @@
 
 ## Hashmaps (Hashes)
 
+- [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)
 - [Find the Difference](https://leetcode.com/problems/find-the-difference)
 - [Find Words that Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)
 - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
