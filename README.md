@@ -55,6 +55,7 @@
 ## Dynamic Programming
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Soup Servings](https://leetcode.com/problems/soup-servings)
 
 ## Graphs
