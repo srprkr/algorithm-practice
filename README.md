@@ -56,6 +56,7 @@
 ## Dynamic Programming
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [House Robber](https://leetcode.com/problems/house-robber)
 - [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Soup Servings](https://leetcode.com/problems/soup-servings)
 
