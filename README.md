@@ -58,6 +58,7 @@
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [House Robber](https://leetcode.com/problems/house-robber)
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
+- [Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
 - [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Soup Servings](https://leetcode.com/problems/soup-servings)
 
