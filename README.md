@@ -60,6 +60,7 @@
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 - [Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
 - [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [Partitions Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum)
 - [Soup Servings](https://leetcode.com/problems/soup-servings)
 
 ## Graphs
